@@ -1,0 +1,7 @@
+{
+  "name": " NutriLens AI Final maybe editing",
+  "description": "A smart health companion that uses AI to recognize food, track calories, and monitor water intake for a healthier lifestyle.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
